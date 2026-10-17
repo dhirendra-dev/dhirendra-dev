@@ -1,3 +1,5 @@
+<p align="center"><img src="profile-banner.gif" width="100%" alt="Animated original profile banner: Curiosity, compiled — learn, build, and ship." /></p>
+
 <h1 align="center">Dhirendra Kumar</h1>
 
 <p align="center"><strong>Student · Developer · Builder</strong></p>
